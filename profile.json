@@ -18,7 +18,8 @@
     "buttons"
   ],
   "hidden": [
-    "streak"
+    "streak",
+    "projects"
   ],
   "hero": {
     "greeting": "Hi, I'm",
