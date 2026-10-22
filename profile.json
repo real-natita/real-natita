@@ -127,16 +127,10 @@
   "buttons": {
     "items": [
       {
-        "icon": "language",
-        "label": "My website",
-        "url": "https://example.com",
-        "style": "filled"
-      },
-      {
         "icon": "book_2",
         "label": "All repositories",
         "url": "",
-        "style": "tonal"
+        "style": "filled"
       }
     ]
   }
