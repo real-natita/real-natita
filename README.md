@@ -6,10 +6,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/real-natita/powtorka-dzial-1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-powtorka-dzial-1-dark.svg"><img src="assets/project-powtorka-dzial-1-light.svg" width="49%" alt="powtorka-dzial-1"></picture></a>&nbsp;<a href="https://github.com/real-natita/natita"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-natita-dark.svg"><img src="assets/project-natita-light.svg" width="49%" alt="natita"></picture></a>
-
-<a href="https://github.com/real-natita/natitah"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-natitah-dark.svg"><img src="assets/project-natitah-light.svg" width="49%" alt="natitah"></picture></a>&nbsp;<a href="https://github.com/real-natita/python-chat"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-python-chat-dark.svg"><img src="assets/project-python-chat-light.svg" width="49%" alt="python-chat"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
